@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm Angel Gonzalez Rodriguez 👋
 
-<!--
-**angelgoro14/angelgoro14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+- 💡 &nbsp; I am an Electronics Engineering Intern, I just finished my course credits. \
+- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science, Robotics, IoT and Blockchain.\
+- 👯 I would like to collaborate with anyone interested in Artificial Intelligence Iot and Robotics.
+- 😄 &nbsp;In my free time, I play guitar, volleyball, football and watch TV Series.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 &nbsp; It would be a pleasure to contact you, you can contact me on:
+
+<a href="www.linkedin.com/in/angel-goro"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
