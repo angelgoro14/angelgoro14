@@ -9,4 +9,5 @@
 
 
 
-#### 📫 &nbsp; It would be a pleasure to contact you, you can contact me on: <a href="www.linkedin.com/in/angel-goro"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+### 📫 &nbsp; It would be a pleasure to contact you, you can contact me on: 
+<a href="www.linkedin.com/in/angel-goro"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
